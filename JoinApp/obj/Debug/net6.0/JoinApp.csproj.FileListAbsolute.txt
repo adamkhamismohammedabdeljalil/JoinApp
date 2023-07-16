@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\bin\Debug\net6.0\JoinApp.exe
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\bin\Debug\net6.0\JoinApp.deps.json
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\bin\Debug\net6.0\JoinApp.runtimeconfig.json
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\bin\Debug\net6.0\JoinApp.dll
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\bin\Debug\net6.0\JoinApp.pdb
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.dll
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\refint\JoinApp.dll
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.pdb
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\JoinApp.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\JoinApp\JoinApp\obj\Debug\net6.0\ref\JoinApp.dll
